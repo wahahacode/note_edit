@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+@echo off
 
 # local serve
 # gitbook serve
@@ -24,7 +24,7 @@ git add --all
 
 git commit -am "$(date '+%Y-%m-%d %H:%M:%S') default commit message"
 
-/usr/local/bin/git push
+git push
 
 #--------------------------------------------------------------------------------
 
@@ -48,3 +48,5 @@ git commit -am "$(date '+%Y-%m-%d %H:%M:%S') default commit message"
 /usr/local/bin/git push
 
 #--------------------------------------------------------------------------------
+
+pause

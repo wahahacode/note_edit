@@ -1,5 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="83da0133-80a7-486d-aa05-2495aa364b50" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/zpublish.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zpublish.sh" beforeDir="false" afterPath="$PROJECT_DIR$/zpublish.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lwz5dBP4tBCycEnB8ethPplWl2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="zpublish.sh" type="BashProRunConfiguration" temporary="true">
       <option name="scriptPath" value="$PROJECT_DIR$/zpublish.sh" />
@@ -10,5 +62,52 @@
         <item itemvalue="BashSupport Pro.zpublish.sh" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83da0133-80a7-486d-aa05-2495aa364b50" name="Default Changelist" comment="" />
+      <created>1608522760253</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608522760253</updated>
+      <workItem from="1608522761657" duration="2314000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1373" height="223" key="GridCell.Tab.0.bottom" timestamp="1608522964935">
+      <screen x="-2560" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1373" height="223" key="GridCell.Tab.0.bottom/-2560.0.2560.1080/0.23.1415.877@-2560.0.2560.1080" timestamp="1608522964935" />
+    <state width="1373" height="223" key="GridCell.Tab.0.center" timestamp="1608522964934">
+      <screen x="-2560" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1373" height="223" key="GridCell.Tab.0.center/-2560.0.2560.1080/0.23.1415.877@-2560.0.2560.1080" timestamp="1608522964934" />
+    <state width="1373" height="223" key="GridCell.Tab.0.left" timestamp="1608522964933">
+      <screen x="-2560" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1373" height="223" key="GridCell.Tab.0.left/-2560.0.2560.1080/0.23.1415.877@-2560.0.2560.1080" timestamp="1608522964933" />
+    <state width="1373" height="223" key="GridCell.Tab.0.right" timestamp="1608522964934">
+      <screen x="-2560" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1373" height="223" key="GridCell.Tab.0.right/-2560.0.2560.1080/0.23.1415.877@-2560.0.2560.1080" timestamp="1608522964934" />
   </component>
 </project>
