@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83da0133-80a7-486d-aa05-2495aa364b50" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/builder.bat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zpublish.bat" beforeDir="false" afterPath="$PROJECT_DIR$/zpublish.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zpublish.sh" beforeDir="false" afterPath="$PROJECT_DIR$/zpublish.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,8 +46,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/zpublish.bat" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
@@ -60,22 +58,11 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Shell Script.CopyAndUpload">
+  <component name="RunManager">
     <configuration name="zpublish.sh" type="BashProRunConfiguration" temporary="true">
       <option name="scriptPath" value="$PROJECT_DIR$/zpublish.sh" />
       <method v="2" />
     </configuration>
-    <configuration name="CopyAndUpload" type="ShConfigurationType">
-      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/zpublish.bat" />
-      <option name="SCRIPT_OPTIONS" value="" />
-      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="INTERPRETER_PATH" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="Shell Script.CopyAndUpload" />
-    </list>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -104,7 +91,7 @@
       <workItem from="1608526584672" duration="230000" />
       <workItem from="1608526829400" duration="551000" />
       <workItem from="1608527515975" duration="318000" />
-      <workItem from="1608527847184" duration="1653000" />
+      <workItem from="1608527847184" duration="1844000" />
     </task>
     <servers />
   </component>
@@ -128,10 +115,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608529080439">
+    <state x="414" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608529599588">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608529080439" />
+    <state x="414" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608529599588" />
     <state x="740" y="263" key="FileChooserDialogImpl" timestamp="1608529034998">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -152,9 +139,9 @@
       <screen x="-2560" y="0" width="2560" height="1080" />
     </state>
     <state width="1373" height="223" key="GridCell.Tab.0.right/-2560.0.2560.1080/0.23.1415.877@-2560.0.2560.1080" timestamp="1608522964934" />
-    <state x="463" y="164" key="SettingsEditor" timestamp="1608528687368">
+    <state x="463" y="164" key="SettingsEditor" timestamp="1608529691825">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="463" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1608528687368" />
+    <state x="463" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1608529691825" />
   </component>
 </project>
