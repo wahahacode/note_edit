@@ -1,5 +1,5 @@
 @echo off
-rem gitbook build
+call gitbook build
 xcopy "./_book" "../note" /y /e
 git add --all
 git commit -am "default commit message"
