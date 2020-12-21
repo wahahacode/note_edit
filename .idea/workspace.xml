@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83da0133-80a7-486d-aa05-2495aa364b50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/zpublish.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zpublish.bat" beforeDir="false" afterPath="$PROJECT_DIR$/zpublish.bat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/zpublish.sh" beforeDir="false" afterPath="$PROJECT_DIR$/zpublish.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,27 +44,55 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/zpublish.bat" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\git_repository\note_edit" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Shell Script.CopyAndUpload">
     <configuration name="zpublish.sh" type="BashProRunConfiguration" temporary="true">
       <option name="scriptPath" value="$PROJECT_DIR$/zpublish.sh" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="BashSupport Pro.zpublish.sh" />
-      </list>
-    </recent_temporary>
+    <configuration name="CopyAndUpload" type="ShConfigurationType">
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/zpublish.bat" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Shell Script.CopyAndUpload" />
+    </list>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="83da0133-80a7-486d-aa05-2495aa364b50" name="Default Changelist" comment="" />
@@ -72,18 +101,24 @@
       <option name="presentableId" value="Default" />
       <updated>1608522760253</updated>
       <workItem from="1608522761657" duration="2314000" />
+      <workItem from="1608526584672" duration="230000" />
+      <workItem from="1608526829400" duration="551000" />
+      <workItem from="1608527515975" duration="318000" />
+      <workItem from="1608527847184" duration="1653000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -93,6 +128,14 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="414" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608529080439">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608529080439" />
+    <state x="740" y="263" key="FileChooserDialogImpl" timestamp="1608529034998">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="263" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608529034998" />
     <state width="1373" height="223" key="GridCell.Tab.0.bottom" timestamp="1608522964935">
       <screen x="-2560" y="0" width="2560" height="1080" />
     </state>
@@ -109,5 +152,9 @@
       <screen x="-2560" y="0" width="2560" height="1080" />
     </state>
     <state width="1373" height="223" key="GridCell.Tab.0.right/-2560.0.2560.1080/0.23.1415.877@-2560.0.2560.1080" timestamp="1608522964934" />
+    <state x="463" y="164" key="SettingsEditor" timestamp="1608528687368">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1608528687368" />
   </component>
 </project>

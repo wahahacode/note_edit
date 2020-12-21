@@ -5,8 +5,10 @@
 
 gitbook build
 
-cd "$HOME/git_repository/note_edit/_book"
+cd "./_book"
 
+
+move ./_book ./note
 rm -rf .idea
 rm -rf package.json
 rm -rf package-lock.json
@@ -16,19 +18,19 @@ rm -rf zbuild.sh
 rm -rf zpublish.sh
 rm -rf zserver.sh
 
-cd "$HOME/git_repository/note_edit"
+cd ..
 
-cp -R "$HOME/git_repository/note_edit/_book/" "$HOME/git_repository/note/"
+cp -R "./_book/" "../note/"
 
 git add --all
 
 git commit -am "$(date '+%Y-%m-%d %H:%M:%S') default commit message"
 
-/usr/local/bin/git push
+git push
 
 #--------------------------------------------------------------------------------
 
-cd "$HOME/git_repository/note"
+cd "../note"
 
 # git config user.name "stonej00" && git config user.email "stone000807@gmail.com"
 
@@ -45,6 +47,6 @@ git add --all
 
 git commit -am "$(date '+%Y-%m-%d %H:%M:%S') default commit message"
 
-/usr/local/bin/git push
+git push
 
 #--------------------------------------------------------------------------------
