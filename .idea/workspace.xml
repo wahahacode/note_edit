@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RunManager">
+    <configuration name="zpublish.sh" type="BashProRunConfiguration" temporary="true">
+      <option name="scriptPath" value="$PROJECT_DIR$/zpublish.sh" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="BashSupport Pro.zpublish.sh" />
+      </list>
+    </recent_temporary>
+  </component>
+</project>
